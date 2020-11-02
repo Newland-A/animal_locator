@@ -1,0 +1,3 @@
+class CompanyHelper < ApplicationHelper
+
+end
